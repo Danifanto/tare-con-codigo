@@ -1,0 +1,27 @@
+=== PENSIONES ALIMENTICIAS (Ley 42 - Panama) ===
+
+Hombre 1:
+  Salario: $636.80
+  Hijos: 2
+  Pension: $191.04
+
+Hombre 2:
+  Salario: $950.00
+  Hijos: 3
+  Pension: $380.00
+
+Hombre 3:
+  Salario: $1500.00
+  Hijos: 4
+  Pension: $600.00
+
+Hombre 4:
+  Salario: $1800.00
+  Hijos: 5
+  Pension: $720.00
+
+Hombre 5:
+  Salario: $2000.00
+  Hijos: 4
+  Pension: $800.00
+
