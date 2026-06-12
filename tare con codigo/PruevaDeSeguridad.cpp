@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 #include <stdlib.h>
-
+// codigo de seguridad, comprueva como funciona un virus de reinicio, en un entorno controlado
 using namespace std;
 
 int main() {
