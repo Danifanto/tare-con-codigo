@@ -126,7 +126,7 @@ ifstream leer("estudiantes.txt");
 string linea;
 
 if (leer.is_open()) {
-cout << "Lista de estudiantes:" << endl;
+cout << "Factura de compra:" << endl;
 while (getline(leer, linea)) {
 cout << "Datos: " << linea << endl;
 }
