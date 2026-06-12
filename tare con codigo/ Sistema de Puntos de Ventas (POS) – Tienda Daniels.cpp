@@ -77,7 +77,7 @@ void imprimirFactura(const vector<Producto>& productos, float subtotal, float it
     cin >> cliente;
     cout << "ingrese su correo electronico"<<endl;
     cin >> correo;
-    ofstream escribir("estudiantes.txt");
+    ofstream escribir("Factura_de_Compra.txt");
 if (escribir.is_open()) {
     escribir << "============================== DGI ===============================" << endl;
     escribir << "========== COMPROVANTE AUXILIAR DE FACTURA ELECTRONICA ===========" << endl;
