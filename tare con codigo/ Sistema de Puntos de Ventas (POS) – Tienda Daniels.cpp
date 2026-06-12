@@ -122,7 +122,7 @@ if (escribir.is_open()) {
 }
 
 // Leer y procesar datos
-ifstream leer("estudiantes.txt");
+ifstream leer("Factura_de_Compra.txt");
 string linea;
 
 if (leer.is_open()) {
